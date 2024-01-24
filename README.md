@@ -1,13 +1,13 @@
 # MPC solve
 solve MPC for Bipedal robot
+still building
 
 ## Download
 ```bash
-git clone 
+git clone https://github.com/Twinkling-Titanite/MPCsolve.git
 ```
 ## How To Use
 
-使用以下命令安装
 ```bash
 cd MPCsolve
 mkdir build
@@ -15,4 +15,3 @@ cd build
 cmake ..
 make
 ./main
-
